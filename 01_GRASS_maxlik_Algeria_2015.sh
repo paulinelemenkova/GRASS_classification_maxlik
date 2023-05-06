@@ -16,7 +16,7 @@ r.import input=/Users/polinalemenkova/grassdata/Algeria/LC08_L2SP_193036_2015010
 #
 g.list rast
 # raster metadata:
-r.info -r L8_2014_07
+r.info -r L8_2015_07
 #
 # 2. grouping data by i.group
 # Set computational region to match the scene
