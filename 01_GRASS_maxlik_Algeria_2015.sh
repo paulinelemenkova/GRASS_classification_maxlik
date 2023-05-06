@@ -26,13 +26,13 @@ i.group group=L8_2015 subgroup=res_30m \
   input=L8_2015_01,L8_2015_02,L8_2015_03,L8_2015_04,L8_2015_05,L8_2015_06,L8_2015_07
 #
 # 3. Define semantic labels for all Landsat bands
-r.support map=L8_2014_01 semantic_label=OLI_1
-r.support map=L8_2014_02 semantic_label=OLI_2
-r.support map=L8_2014_03 semantic_label=OLI_3
-r.support map=L8_2014_04 semantic_label=OLI_4
-r.support map=L8_2014_05 semantic_label=OLI_5
-r.support map=L8_2014_06 semantic_label=OLI_6
-r.support map=L8_2014_07 semantic_label=OLI_7
+r.support map=L8_2015_01 semantic_label=OLI_1
+r.support map=L8_2015_02 semantic_label=OLI_2
+r.support map=L8_2015_03 semantic_label=OLI_3
+r.support map=L8_2015_04 semantic_label=OLI_4
+r.support map=L8_2015_05 semantic_label=OLI_5
+r.support map=L8_2015_06 semantic_label=OLI_6
+r.support map=L8_2015_07 semantic_label=OLI_7
 #
 # 4. Clustering: generating signature file and report using k-means clustering algorithm
 i.cluster group=L8_2015 subgroup=res_30m \
