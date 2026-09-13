@@ -1,4 +1,13 @@
 #!/bin/sh
+# -----------------------------------------------------------------------------
+# GRASS GIS Wetland Mapping of Kenya Using Remote Sensing Data
+#
+# Author:  Polina Lemenkova
+# ORCID:   https://orcid.org/0000-0002-5759-1089
+# Paper:   Lemenkova, P. (2023). Mapping Wetlands of Kenya Using Geographic Resources Analysis Support System (GRASS GIS) with Remote Sensing Data. Transylvanian Review of Systematical and Ecological Research, 25(2), 1-18. ISSN 2344-3219.
+# DOI:     https://doi.org/10.2478/trser-2023-0008
+# License: MIT (see LICENSE)
+# -----------------------------------------------------------------------------
 # 1. Import data
 # listing the files
 g.list rast
